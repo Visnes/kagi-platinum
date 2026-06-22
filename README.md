@@ -19,8 +19,9 @@ This is still being worked on, so there are bugs!
 - Most elements have been skinned
 - It refracts what's behind buttons and panels just like liquid glass (kinda)
 
-## Bug
-- Currently the background images have been removed as they throw a CSP error, so something is blocking it (in talks with Kagi about it)
+## Notice
+- No work done on responsive design for mobile and tablet, so it will break on those
+- No dark mode, yet.
 
 ## Other themes by me
 I've also made a [Kagi theme based on OS X Aqua](https://github.com/Visnes/kagi-theme) and one based on [Mac OS Tahoe's Liquid Glass](https://github.com/Visnes/kagi-liquid-glass)
