@@ -18,6 +18,9 @@ This is still being worked on, so there are bugs!
 - Follows most of the Mac OS 9 styling for a modern age
 - Most elements have been skinned
 - It refracts what's behind buttons and panels just like liquid glass (kinda)
+- Automatically changes to dark or light mode based on system
+
+<img width="1921" height="1078" alt="image" src="https://github.com/user-attachments/assets/e7f462d5-013c-4e5d-a67e-9fbe8590120c" />
 
 ## Notice
 - No work done on responsive design for mobile and tablet, so it will break on those
