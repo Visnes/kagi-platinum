@@ -22,5 +22,4 @@ This is still being worked on, so there are bugs!
 
 <img width="1921" height="1078" alt="image" src="https://github.com/user-attachments/assets/e7f462d5-013c-4e5d-a67e-9fbe8590120c" />
 
-## Other themes by me
-I've also made a [Kagi theme based on OS X Aqua](https://github.com/Visnes/kagi-theme) and one based on [Mac OS Tahoe's Liquid Glass](https://github.com/Visnes/kagi-liquid-glass)
+**[Other themes by me](https://github.com/Visnes/kagi-theme)**
