@@ -1,6 +1,6 @@
 # Kagi Mac OS 9 Platinum
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c65e70ee-9819-466f-8908-b59f8f16d077" />
+<img width="1920" height="1080" alt="Platinumdarklight" src="https://github.com/user-attachments/assets/6c9cece7-2e78-4567-bec9-52595a386648" />
 
 A retro and nostalgia-inducing custom theme for Kagi that mimicks the look and feel of Mac OS 9 Platinum released in 1999.
 
