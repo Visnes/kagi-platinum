@@ -22,4 +22,6 @@ This is still being worked on, so there are bugs!
 
 <img width="1921" height="1078" alt="image" src="https://github.com/user-attachments/assets/e7f462d5-013c-4e5d-a67e-9fbe8590120c" />
 
-**[Other themes by me](https://github.com/Visnes/kagi-theme)**
+# Other themes
+
+- **[Other themes by me](https://github.com/Visnes/kagi-theme)**
